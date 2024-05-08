@@ -1,0 +1,2 @@
+  - name: Run unit tests with nose
+    run: {insert command here}
